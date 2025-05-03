@@ -1,0 +1,1 @@
+vless://1e92021d-fe64-4b9b-b1fa-96caf030ed12@38.244.165.47:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=honda.getyourcar.store&fp=chrome&type=ws&sni=honda.getyourcar.store#Rus
